@@ -1,4 +1,4 @@
-# <center> <span style="color:GREEN"> monitor-system-load </br>
+# monitor-system-load </br>
 ### Bash shell script which monitor the performance of the system each 1 minute. </br>
 If the load on the system increased during 1 minute , 5 minutes or 15 minutes: </br>
 
